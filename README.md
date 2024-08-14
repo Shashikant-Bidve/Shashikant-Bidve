@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/shashikantbidve" target="blank"><img src="https://img.shields.io/twitter/follow/shashikantbidve?logo=twitter&style=for-the-badge" alt="shashikantbidve" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA and web development**
 
 - 📫 How to reach me **shashi.bidve18@gmail.com**
 
-- ⚡ Fun fact **I am batman**
+- ⚡ Fun fact **I can code (maybe)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
