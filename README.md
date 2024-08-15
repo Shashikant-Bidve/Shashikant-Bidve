@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashikantbidve" target="blank"><img src="https://img.shields.io/twitter/follow/shashikantbidve?logo=twitter&style=for-the-badge" alt="shashikantbidve" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning more about **Backend development**
 
 - 💬 Ask me about **DSA and web development**
 
